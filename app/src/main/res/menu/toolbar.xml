@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:title="home"
+    android:icon="@drawable/baseline_home_24"
+    >
+
+</item>
+    <item
+        android:title="alarm"
+        android:icon="@drawable/baseline_alarm_on_24">
+
+    </item>
+    <item
+        android:title="video"
+        android:icon="@drawable/baseline_video_library_24">
+
+    </item>
+    <item
+        android:title="true"
+        android:icon="@drawable/baseline_video_library_24">
+
+    </item>
+
+</menu>
